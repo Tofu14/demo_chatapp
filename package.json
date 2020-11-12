@@ -1,0 +1,14 @@
+{
+  "name": "demo-chatapp",
+  "version": "1.0.0",
+  "description": "realtime",
+  "main": "app.js",
+  "author": "Boi",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.6",
+    "socket.io": "^2.1.1"
+  }
+}
